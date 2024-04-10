@@ -1,0 +1,19 @@
+.label {
+    -fx-font-size: 40px;
+    -fx-text-fill: black;
+    -fx-translate-y: -85px;
+}
+
+.button {
+    -fx-background-color:green;
+    -fx-padding: 10px 15px;
+
+}
+.button:hover {
+    -fx-background-color: #45a049; /* Darker background color on hover */
+}
+
+
+
+
+
